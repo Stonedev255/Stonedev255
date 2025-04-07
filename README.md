@@ -1,17 +1,16 @@
 # 안녕하세요! 👋 I'm Stonedev255
 
 ## About Me
-<!-- You can add a brief introduction about yourself here -->
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 👨‍🎓 이름/Name: 김영록 (Young-Rok KIM)
+- 📱 전화번호/Phone: +82 1085517165
+- 📧 Email: stonedev255@gmail.com
+- 🏫 소속/Affiliation: 인제대학 AI융합로봇학 석사과정 3학기
+- 🔬 연구분야/Research Areas: AMR, Autonomous Systems, AI, Computer Vision
 
 ## 📫 Contact
-<p align="center">
+<p>
   <a href="mailto:stonedev255@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
+  <a href="tel:+821085517165"><img src="https://img.shields.io/badge/Phone-+82_1085517165-blue?style=flat-square&logo=samsung&logoColor=white"></a>
 </p>
 
 ## 💻 Tech Stack
