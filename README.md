@@ -1,9 +1,5 @@
 # 안녕하세요! 👋 I'm Young-Rok KIM (김영록)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F742B7&center=true&vCenter=true&random=false&width=435&lines=AI+Robotics+Researcher;Computer+Vision+Enthusiast;Autonomous+Systems+Developer" alt="Typing SVG" />
-</div>
-
 <br>
 
 <div align="center">
