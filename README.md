@@ -1,56 +1,56 @@
 # 안녕하세요! 👋 I'm Stonedev255
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>About Me (한국어)</h2>
-      <ul>
-        <li>👨‍🎓 이름
-          <ul><li>김영록</li></ul>
-        </li>
-        <li>📱 전화번호
-          <ul><li>+82 1085517165</li></ul>
-        </li>
-        <li>📧 이메일
-          <ul>
-            <li>stonedev255@gmail.com</li>
-            <li>stonedev255@oasis.inje.ac.kr (기관)</li>
-          </ul>
-        </li>
-        <li>🏫 소속
-          <ul><li>인제대학 AI융합로봇학 석사과정 3학기</li></ul>
-        </li>
-        <li>🔬 연구분야
-          <ul><li>AMR, Autonomous, AI, Vision</li></ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>About Me (English)</h2>
-      <ul>
-        <li>👨‍🎓 Name
-          <ul><li>Young-Rok KIM</li></ul>
-        </li>
-        <li>📱 Phone
-          <ul><li>+82 1085517165</li></ul>
-        </li>
-        <li>📧 Email
-          <ul>
-            <li>stonedev255@gmail.com</li>
-            <li>stonedev255@oasis.inje.ac.kr (Institutional)</li>
-          </ul>
-        </li>
-        <li>🏫 Affiliation
-          <ul><li>Inje University, M.S. in AI Convergence Robotics (3rd semester)</li></ul>
-        </li>
-        <li>🔬 Research Areas
-          <ul><li>AMR, Autonomous Systems, AI, Computer Vision</li></ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h2>About Me (한국어)</h2>
+        <ul>
+          <li>👨‍🎓 이름
+            <ul><li>김영록</li></ul>
+          </li>
+          <li>📱 전화번호
+            <ul><li>+82 1085517165</li></ul>
+          </li>
+          <li>📧 이메일
+            <ul>
+              <li>stonedev255@gmail.com</li>
+              <li>stonedev255@oasis.inje.ac.kr (기관)</li>
+            </ul>
+          </li>
+          <li>🏫 소속
+            <ul><li>인제대학 AI융합로봇학 석사과정 3학기</li></ul>
+          </li>
+          <li>🔬 연구분야
+            <ul><li>AMR, Autonomous, AI, Vision</li></ul>
+          </li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h2>About Me (English)</h2>
+        <ul>
+          <li>👨‍🎓 Name
+            <ul><li>Young-Rok KIM</li></ul>
+          </li>
+          <li>📱 Phone
+            <ul><li>+82 1085517165</li></ul>
+          </li>
+          <li>📧 Email
+            <ul>
+              <li>stonedev255@gmail.com</li>
+              <li>stonedev255@oasis.inje.ac.kr (Institutional)</li>
+            </ul>
+          </li>
+          <li>🏫 Affiliation
+            <ul><li>Inje University, M.S. in AI Convergence Robotics (3rd semester)</li></ul>
+          </li>
+          <li>🔬 Research Areas
+            <ul><li>AMR, Autonomous Systems, AI, Computer Vision</li></ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
 ## 📫 Contact
 <p align="center">
   <a href="mailto:stonedev255@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
