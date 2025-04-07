@@ -1,14 +1,32 @@
 # 안녕하세요! 👋 I'm Stonedev255
 
-## About Me
-- 👨‍🎓 이름/Name: 김영록 (Young-Rok KIM)
-- 📱 전화번호/Phone: +82 1085517165
-- 📧 Email: stonedev255@gmail.com
-- 🏫 소속/Affiliation: 인제대학 AI융합로봇학 석사과정 3학기
-- 🔬 연구분야/Research Areas: AMR, Autonomous Systems, AI, Computer Vision
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>About Me (한국어)</h2>
+      <ul>
+        <li>👨‍🎓 이름: 김영록</li>
+        <li>📱 전화번호: +82 1085517165</li>
+        <li>📧 이메일: stonedev255@gmail.com</li>
+        <li>🏫 소속: 인제대학 AI융합로봇학 석사과정 3학기</li>
+        <li>🔬 연구분야: AMR, Autonomous, AI, Vision</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>About Me (English)</h2>
+      <ul>
+        <li>👨‍🎓 Name: Young-Rok KIM</li>
+        <li>📱 Phone: +82 1085517165</li>
+        <li>📧 Email: stonedev255@gmail.com</li>
+        <li>🏫 Affiliation: Inje University, M.S. in AI Convergence Robotics (3rd semester)</li>
+        <li>🔬 Research Areas: AMR, Autonomous Systems, AI, Computer Vision</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
-<p>
+<p align="center">
   <a href="mailto:stonedev255@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
   <a href="tel:+821085517165"><img src="https://img.shields.io/badge/Phone-+82_1085517165-blue?style=flat-square&logo=samsung&logoColor=white"></a>
 </p>
