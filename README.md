@@ -1,5 +1,3 @@
-# 안녕하세요! 👋 I'm Young-Rok KIM (김영록)
-
 <br>
 
 ## 👨‍🎓 About Me
