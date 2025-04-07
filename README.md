@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stonedev255&&rank_icon=github&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stonedev255&&rank_icon=github&show_icons=true&theme=radical&&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stonedev255&layout=compact)
 
 <a href="mailto:stonedev255@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
