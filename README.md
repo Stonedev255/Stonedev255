@@ -21,6 +21,8 @@
 </div>
 
 ## 👨‍🎓 About Me
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190" />
+
 <table border="0">
   <tr>
     <td>
@@ -63,15 +65,103 @@
 ---
 
 ## 💻 Tech Stack
+
 <div align="center">
+  <!-- Tech Stack Venn Diagram SVG -->
+  <svg width="760" height="500" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#0D1117" rx="15" ry="15"/>
+    
+    <!-- Venn Diagram Circles with gradients -->
+    <!-- Programming Circle -->
+    <circle cx="250" cy="200" r="160" fill="url(#gradProgramming)" opacity="0.7"/>
+    <!-- AI Circle -->
+    <circle cx="420" cy="170" r="160" fill="url(#gradAI)" opacity="0.7"/>
+    <!-- Robotics Circle -->
+    <circle cx="380" cy="330" r="160" fill="url(#gradRobotics)" opacity="0.7"/>
+    <!-- Development Tools Circle -->
+    <circle cx="580" cy="250" r="160" fill="url(#gradDevTools)" opacity="0.7"/>
+    
+    <!-- Define gradients -->
+    <defs>
+      <radialGradient id="gradProgramming" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:#3776AB; stop-opacity:0.8"/>
+        <stop offset="100%" style="stop-color:#3776AB; stop-opacity:0.4"/>
+      </radialGradient>
+      <radialGradient id="gradAI" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:#EE4C2C; stop-opacity:0.8"/>
+        <stop offset="100%" style="stop-color:#EE4C2C; stop-opacity:0.4"/>
+      </radialGradient>
+      <radialGradient id="gradRobotics" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:#22314E; stop-opacity:0.8"/>
+        <stop offset="100%" style="stop-color:#22314E; stop-opacity:0.4"/>
+      </radialGradient>
+      <radialGradient id="gradDevTools" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:#44A833; stop-opacity:0.8"/>
+        <stop offset="100%" style="stop-color:#44A833; stop-opacity:0.4"/>
+      </radialGradient>
+    </defs>
+    
+    <!-- Category Labels -->
+    <text x="160" y="110" font-family="Arial" font-size="20" fill="white" text-anchor="middle">Programming</text>
+    <text x="470" y="90" font-family="Arial" font-size="20" fill="white" text-anchor="middle">AI &amp; ML</text>
+    <text x="300" y="430" font-family="Arial" font-size="20" fill="white" text-anchor="middle">Robotics</text>
+    <text x="650" y="170" font-family="Arial" font-size="20" fill="white" text-anchor="middle">Development Tools</text>
+    
+    <!-- Technology Labels -->
+    <!-- Programming -->
+    <text x="160" y="150" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Python</text>
+    <text x="160" y="175" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Java</text>
+    
+    <!-- AI & ML -->
+    <text x="480" y="130" font-family="Arial" font-size="14" fill="white" text-anchor="middle">PyTorch</text>
+    <text x="480" y="155" font-family="Arial" font-size="14" fill="white" text-anchor="middle">TensorFlow</text>
+    <text x="480" y="180" font-family="Arial" font-size="14" fill="white" text-anchor="middle">OpenCV</text>
+    
+    <!-- Robotics -->
+    <text x="320" y="370" font-family="Arial" font-size="14" fill="white" text-anchor="middle">ROS</text>
+    <text x="320" y="395" font-family="Arial" font-size="14" fill="white" text-anchor="middle">CUDA</text>
+    
+    <!-- Development Tools -->
+    <text x="650" y="215" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Jupyter</text>
+    <text x="650" y="240" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Anaconda</text>
+    <text x="650" y="265" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Docker</text>
+    <text x="650" y="290" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Git</text>
+    
+    <!-- Intersections -->
+    <text x="320" y="190" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Data Science</text>
+    <text x="380" y="270" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Computer Vision</text>
+    <text x="510" y="260" font-family="Arial" font-size="14" fill="white" text-anchor="middle">ML Engineering</text>
+    <text x="240" y="290" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Automation</text>
+    
+    <!-- Center - where all disciplines meet -->
+    <text x="380" y="230" font-family="Arial" font-size="16" fill="white" font-weight="bold" text-anchor="middle">Intelligent</text>
+    <text x="380" y="250" font-family="Arial" font-size="16" fill="white" font-weight="bold" text-anchor="middle">Robotics</text>
+  </svg>
+  
+  <!-- Tech badges by category -->
+  <h4>Programming Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-C3002D?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  
+  <h4>AI & Machine Learning</h4>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  
+  <h4>Robotics & Autonomous Systems</h4>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  
+  <h4>Development Tools</h4>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda3-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </div>
 
 ## 📊 GitHub Stats
