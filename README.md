@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stonedev255\&include_all_commits=true&rank_icon=github&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stonedev255&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stonedev255&layout=compact&theme=radical))
 
 <a href="mailto:stonedev255@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
