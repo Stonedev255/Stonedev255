@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white">
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda3-44A833?style=flat-square&amp;logo=anaconda&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
 
