@@ -84,10 +84,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stonedev255&include_all_commits=true&rank_icon=github&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
