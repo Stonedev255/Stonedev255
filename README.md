@@ -43,7 +43,6 @@
   </tr>
 </table>
 
----
 
 ## 💻 Tech Stack
 
