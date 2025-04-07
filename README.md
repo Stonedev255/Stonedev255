@@ -67,62 +67,40 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <!-- 기술 스택을 카테고리별로 분류 -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Languages-3776AB?style=for-the-badge&logoColor=white" alt="Languages"/><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-C3002D?style=flat-square&logo=Java&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI & ML-EE4C2C?style=for-the-badge&logoColor=white" alt="AI"/><br>
-        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logoColor=white" alt="Robotics"/><br>
-        <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Dev Tools-44A833?style=for-the-badge&logoColor=white" alt="Tools"/><br>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anaconda3-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- 기술 교차 영역을 표현한 다이어그램 -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  
-  <h3>🔮 Interdisciplinary Skills</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <b>Programming + AI</b><br>
-        Data Science
-      </td>
-      <td align="center">
-        <b>AI + Robotics</b><br>
-        Computer Vision, ML Engineering
-      </td>
-      <td align="center">
-        <b>Robotics + Programming</b><br>
-        Automation, Control Systems
-      </td>
-      <td align="center">
-        <b>Core Expertise</b><br>
-        <i>Intelligent Robotics Systems</i>
-      </td>
-    </tr>
-  </table>
+  <h3>Programming Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-C3002D?style=for-the-badge&logo=Java&logoColor=white" />
 </div>
+
+<div align="center">
+  <h3>AI & Machine Learning</h3>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>Robotics & Autonomous Systems</h3>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>Development Tools & Environments</h3>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda3-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>Web Development</h3>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
