@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-C3002D?style=flat-square&amp;logo=Java&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white">
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white">
 
