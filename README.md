@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <a href="mailto:stonedev255@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&amp;logo=Java&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Java-C3002D?style=flat-square&amp;logo=Java&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white">
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white">
 
