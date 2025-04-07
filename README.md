@@ -10,7 +10,9 @@
 - ⚡ Fun fact: ...
 
 ## 📫 Contact
-<a href="mailto:stonedev255@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
+<p align="center">
+  <a href="mailto:stonedev255@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
+</p>
 
 ## 💻 Tech Stack
 <p align="center">
