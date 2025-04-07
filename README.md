@@ -21,8 +21,6 @@
 </div>
 
 ## 👨‍🎓 About Me
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190" />
-
 <table border="0">
   <tr>
     <td>
