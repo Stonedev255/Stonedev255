@@ -9,7 +9,7 @@
         <summary><b>🇰🇷 한국어</b></summary>
         <ul>
           <li><b>이름:</b> <a href="mailto:stonedev255@gmail.com">김영록</a></li>
-          <li><b>소속:</b> 인제대학 AI융합로봇학 석사과정 3학기</li>
+          <li><b>소속:</b> 인제대학 AI융합로봇학 석사과정 4학기</li>
           <li><b>연구분야:</b> AMR, Autonomous, AI, Vision</li>
           <li><b>이메일:</b> 
             <ul>
@@ -81,27 +81,6 @@
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stonedev255&include_all_commits=true&rank_icon=github&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stonedev255&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stonedev255&theme=radical&row=1&column=6" alt="trophy" />
-</div>
-
-## 🏆 Recent Projects
-<!-- 여기에 최근 프로젝트를 추가할 수 있습니다 / You can add your recent projects here -->
-<div align="center">
-  <a href="https://github.com/Stonedev255/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stonedev255&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/Stonedev255/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stonedev255&repo=project2&theme=radical" />
-  </a>
-</div>
 
 ---
 
