@@ -1,7 +1,5 @@
 <br>
-
 ## 👨‍🎓 About Me
-
 <table border="0">
   <tr>
     <td>
@@ -40,10 +38,7 @@
     </td>
   </tr>
 </table>
-
-
 ## 💻 Tech Stack
-
 <table>
   <tr>
     <td width="33%" align="center">
@@ -81,9 +76,7 @@
     </td>
   </tr>
 </table>
-
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Stonedev255&color=blueviolet&style=for-the-badge" alt="Profile views" />
   
