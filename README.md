@@ -53,29 +53,6 @@
 측위와 경로계획을 따로 두지 않고 하나의 순환으로 다룹니다. 아래 저장소는 모두 비공개이며, 자세한 내용은 메일로 문의해 주세요.
 *I treat localization and path planning as one loop rather than two stages. The repositories below are private — feel free to email me for details.*
 
-<table>
-  <tr>
-    <th align="left" width="22%">Project</th>
-    <th align="left" width="58%">Summary</th>
-    <th align="left" width="20%">Status</th>
-  </tr>
-  <tr>
-    <td valign="top"><b>Light3D-SLAM</b><br></td>
-
-    <td valign="top">진행 중<br><sub>in progress</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Light3D-LAPP</b></td>
-
-    <td valign="top">진행 중<br><sub>in progress</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>PathFusion</b></td>
-
-    <td valign="top">진행 중<br><sub>under review</sub></td>
-  </tr>
-</table>
-
 ## 💻 Tech Stack
 
 <table>
