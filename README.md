@@ -2,8 +2,8 @@
 
 # 김영록 · Young-Rok Kim
 
-**LiDAR SLAM · 자율주행 내비게이션 · AI융합로봇학 석사과정**
-*LiDAR SLAM · Autonomous Navigation · M.S. student in AI Convergence Robotics*
+**LiDAR SLAM · 자율주행 내비게이션 · 컴퓨터공학과 박사과정**
+*LiDAR SLAM · Autonomous Navigation · Ph.D. Program in Computer Engineering*
 
 </div>
 
@@ -18,7 +18,7 @@
         <summary><b>🇰🇷 한국어</b></summary>
         <ul>
           <li><b>이름:</b> 김영록</li>
-          <li><b>소속:</b> 인제대학교 AI융합로봇학 석사과정</li>
+          <li><b>소속:</b> 인제대학교 컴퓨터공학과 박사과정</li>
           <li><b>연구분야:</b> LiDAR SLAM, 자율 이동 로봇(AMR), 경로계획, 컴퓨터 비전</li>
           <li><b>이메일:</b>
             <ul>
@@ -34,7 +34,7 @@
         <summary><b>🇺🇸 English</b></summary>
         <ul>
           <li><b>Name:</b> Young-Rok Kim</li>
-          <li><b>Affiliation:</b> Inje University, M.S. in AI Convergence Robotics</li>
+          <li><b>Affiliation:</b> Inje University, Ph.D. Program in Computer Engineering</li>
           <li><b>Research areas:</b> LiDAR SLAM, autonomous mobile robots, path planning, computer vision</li>
           <li><b>Email:</b>
             <ul>
