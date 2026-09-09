@@ -60,7 +60,7 @@
     <th align="left" width="20%">Status</th>
   </tr>
   <tr>
-    <td valign="top"><b>Light3D-SLAM</b><br><sub>학위논문 · thesis</sub></td>
+    <td valign="top"><b>Light3D-SLAM</b><br></td>
     <td valign="top">
       KITTI Odometry에서 동작하는 <b>LiDAR 단독 SLAM</b>. 시맨틱 신뢰도로 포인트를 선별하고,
       루프 클로저에서 <b>검출과 검증을 분리</b>한 것이 핵심 명제입니다.<br>
@@ -70,7 +70,7 @@
     <td valign="top">진행 중<br><sub>in progress</sub></td>
   </tr>
   <tr>
-    <td valign="top"><b>Light3D-LAPP</b><br><sub>학술대회 · conference</sub></td>
+    <td valign="top"><b>Light3D-LAPP</b></td>
     <td valign="top">
       <b>Localizability-aware 전역 경로계획</b>. 드리프트를 사후에 보정하는 대신, 측위가 잘 되는 경로로
       애초에 주행하게 만들어 경로계획이 SLAM 품질을 결정하도록 방향을 뒤집습니다.
@@ -81,14 +81,14 @@
     <td valign="top">진행 중<br><sub>in progress</sub></td>
   </tr>
   <tr>
-    <td valign="top"><b>PathFusion</b><br><sub>IEEE Access</sub></td>
+    <td valign="top"><b>PathFusion</b></td>
     <td valign="top">
       A*, RRT, RRT* 3종 이종 경로계획기의 출력을 <b>품질 기반 적응형 가중치 투표</b>로 융합하고
       통제 실험으로 검증. MovingAI 벤치마크 + 합성 환경 77개, 2,210개 시나리오, 환경 단위 분리 분할.<br>
       <sub><i>Quality-gated adaptive voting fusion over heterogeneous planners, validated on 77 environments
       and 2,210 scenarios with env-disjoint splits.</i></sub>
     </td>
-    <td valign="top">투고<br><sub>under review</sub></td>
+    <td valign="top">진행 중<br><sub>under review</sub></td>
   </tr>
 </table>
 
